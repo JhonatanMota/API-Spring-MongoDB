@@ -1,0 +1,5 @@
+br\com\siad\infra_e_could\Hero.class
+br\com\siad\infra_e_could\HeroRepository.class
+br\com\siad\infra_e_could\InfraECouldApplication.class
+br\com\siad\infra_e_could\HeroController.class
+br\com\siad\infra_e_could\HeroService.class
